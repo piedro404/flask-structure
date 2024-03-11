@@ -54,18 +54,18 @@ An API (Application Programming Interface) is a set of rules and definitions tha
    Facilitate development by allowing the reuse of already implemented functionalities, saving time and resources.
 
 # How to Run the Library Locally 🛠️
-1. Download the library:
-```bash
-   pip install flask-structure
-```
-
-2. Virtual Environment (Optional)
+1. Virtual Environment (Optional)
 For organization and ease of running the project, I suggest creating a virtual environment. To do this, use the following command:
 ```Bash
   python -m venv .venv
 ```
 ```Bash
   .venv\Scripts\activate
+```
+
+2. Download the library:
+```bash
+   pip install flask-structure
 ```
 
 3. Run the command to create the project structure
