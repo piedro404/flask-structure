@@ -1,9 +1,16 @@
 # Flask-Structure - Base Structure for API Projects 🧱
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://github.com/piedro404/flask-structure/blob/main/LICENSE.md)
+[![PyPI](https://img.shields.io/pypi/v/flask-structure)](https://pypi.org/project/flask-structure/)
 
 A Python library dedicated to exemplify and facilitate the start of Flask projects for APIs 💫. Download flask-structure and streamline the "start" of your projects with ease 🚀.
 
+Repository with the idea of ​​the Library: [Flask-Api-Structure](https://github.com/piedro404/flask-api-structure)
+
 ##### Organized and Scalable Structure. 😎📱
+
+### Project that can serve as a basis and learning to understand the structure
+- UB Task API: [Click Here](https://github.com/piedro404/ub-task-api)
+- Team Poke API: [Click Here](https://github.com/vinifranco48/team_poke_api)
 
 ### Structure
 <img width="221" alt="2024-03-09_17h53_25" src="https://github.com/piedro404/flask-structure/assets/88720549/47491b5a-0b36-4b5c-870c-3edfa321a4b3">
@@ -23,6 +30,8 @@ A Python library dedicated to exemplify and facilitate the start of Flask projec
 - Info: Welcomes users and provides relevant information about the API and contacts.
 - Docs: A place to learn about the API and how to use it interactively and dynamically.
 - Favicon.ico: Icon to be displayed in the website window.
+
+![flask-stucture](https://github.com/piedro404/flask-structure/assets/88720549/5974c142-8ba9-4b05-b91f-2199c938c65a)
 
 # Key Technologies Used 🌐
 - Flask: Framework used for web application development, providing a flexible and efficient structure for creating APIs and user interfaces.
