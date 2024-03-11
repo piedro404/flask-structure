@@ -1,5 +1,5 @@
 # Flask-Structure - Base Structure for API Projects 🧱
-[![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE.md)
+[![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://github.com/piedro404/flask-structure/blob/main/LICENSE.md)
 
 A Python library dedicated to exemplify and facilitate the start of Flask projects for APIs 💫. Download flask-structure and streamline the "start" of your projects with ease 🚀.
 
@@ -111,7 +111,7 @@ For organization and ease of running the project, I suggest creating a virtual e
 ```
 
 # License 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/piedro404/flask-structure/blob/main/LICENSE.md) file for details.
 
 # About 📒
 Thanks to everyone, I wish you great studies. If you want, contact me at pedro.henrique.martins404@gmail.com.
