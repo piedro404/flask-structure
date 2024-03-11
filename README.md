@@ -1,4 +1,5 @@
 # Flask-Structure - Base Structure for API Projects 🧱
+[![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
 
 A Python library dedicated to exemplify and facilitate the start of Flask projects for APIs 💫. Download flask-structure and streamline the "start" of your projects with ease 🚀.
 
