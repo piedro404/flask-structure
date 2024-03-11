@@ -1,1 +1,3 @@
 .venv/
+build/
+flask_structure.egg-info/

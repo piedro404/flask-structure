@@ -6,10 +6,14 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'flask-structure = flask-structure.__main__:create',
+            'flask-structure = flask_structure_handler.__main__:cli',
         ],
     },
     install_requires=[
         'Click',
+        # 'Flask',
+        # 'Flask-Cors',
+        # 'Cerberus'
     ],
+    include_package_data=True,
 )
