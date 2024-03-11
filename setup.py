@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='flask-structure',
-    version='0.1.2',
+    version='0.1.1',
     author='Piedro404',
     author_email='pedro.henrique.martins404@gmail.com',
     description='A Python library dedicated to exemplify and facilitate the start of Flask projects for APIs 💫. Download flask-structure and streamline the "start" of your projects with ease 🚀.',
